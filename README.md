@@ -13,7 +13,7 @@
 
 ## 🛠 Tech Stack
 <p>
-<img src="[(https://skillicons.dev/icons?i=python,ahk,js,html,css,discord)](https://skillicons.dev)](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)" />
+<img src="[(https://skillicons.dev/icons?i=python,js,html,css,discord)](https://skillicons.dev)](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)" />
 </p>
 
 ---
