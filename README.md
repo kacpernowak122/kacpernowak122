@@ -18,8 +18,9 @@
 
 ---
 
-## 🚀 Projekty
+## 📁 Projekty
 Aktualnie pracuję nad małymi, osobistymi projektami i uczę się tworzenia stron internetowych.
+Projekt z którego jestem najbardziej zadowolony: [Kliknij tutaj](https://github.com/kacpernowak122/Wyszukiwarka-Polskich-Tablic-Rejestracyjnych)
 *(Projekty będą dodawane tutaj w miarę ich tworzenia!)*
 
 ---
