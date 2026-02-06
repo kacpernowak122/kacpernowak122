@@ -1,50 +1,42 @@
-<h1 align="center">Hi 👋 I'm Kacper Nowak</h1>
-<h3 align="center">💻 Aspiring Developer | Python & Web Enthusiast</h3>
+<h1 align="center">Cześć 👋 Jestem Kacper Nowak</h1> 
+<h3 align="center">💻 Aspirujący Developer | Pasjonat Pythona i Web Developmentu</h3>
 
 ---
 
-## 👨‍💻 About Me
-- 🔹 Learning Web Development (HTML, CSS, JS)  
-- 🔹 Experienced with Python & AutoHotkey (AHK)  
-- 🔹 Passionate about coding, automation, and exploring new tech  
-- 🔹 Continuously improving my skills and building small projects  
+## 👨‍💻 O mnie
+- 🔹 Nauka tworzenia stron internetowych (HTML, CSS, JS)
+- 🔹 Doświadczenie z Pythonem i AutoHotkey (AHK)
+- 🔹 Pasjonuję się kodowaniem, automatyzacją i odkrywaniem nowych technologii
+- 🔹 Ciągłe doskonalenie umiejętności i tworzenie małych projektów
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Języki
 <p>
 <img src="https://skillicons.dev/icons?i=python,space" /> <img src="https://skillicons.dev/icons?i=js,html,css,space" /> <img src="https://skillicons.dev/icons?i=discord" />
 </p>
 
 ---
 
-## 🚀 Projects
-Currently working on small personal projects and learning web development.  
-*(Projects will be added here as I create them!)*
+## 🚀 Projekty
+Aktualnie pracuję nad małymi, osobistymi projektami i uczę się tworzenia stron internetowych.
+*(Projekty będą dodawane tutaj w miarę ich tworzenia!)*
 
 ---
 
-## 📚 Currently Learning
-- HTML, CSS, JavaScript (Web Development)  
-- Python automation projects  
-- Cybersecurity basics & best practices  
+## 📚 Aktualnie się uczę
+- HTML, CSS, JavaScript (Tworzenie stron internetowych)
+- Projekty automatyzacji w Pythonie
+- Podstawy cyberbezpieczeństwa i najlepsze praktyki
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KacperNowak&show_icons=true&theme=react"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KacperNowak&layout=compact&theme=react"/>
-</p>
-
----
-
-## 📫 Contact Me
+## 📫 Skontaktuj się ze mną
 - ✉️ Email: [nowakkacper5544@gmail.com](mailto:nowakkacper5544@gmail.com)  
 - 💬 Discord: `przemyslenia`
 
 ---
 
 <p align="center">
-  <i>"Learning, building, and improving every day!"</i>
+  <i>"Ucze się, buduje i doskonale każdego dnia!"</i>
 </p>
