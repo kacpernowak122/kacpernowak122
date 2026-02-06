@@ -33,7 +33,7 @@ Projekt z którego jestem najbardziej zadowolony: [Kliknij tutaj](https://github
 ---
 
 ## 📫 Skontaktuj się ze mną
-- ✉️ Email: [nowakkacper5544@gmail.com](mailto:nowakkacper5544@gmail.com)  
+- ✉️ Email: [nowakkacper5544@gmail.com](mailto:nowakkacper5544@gmail.com) lub [nowakkacper5544@wp.com](mailto:nowakkacper5544@wp.com) 
 - 💬 Discord: `przemyslenia`
 
 ---
