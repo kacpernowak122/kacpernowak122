@@ -1,12 +1,12 @@
 <h1 align="center">Cześć 👋 Jestem Kacper Nowak</h1> 
-<h3 align="center">💻 Aspirujący Developer | Pasjonat Pythona i Web Developmentu</h3>
+<h3 align="center">💻 Developer | Pasjonat Pythona i Web Developmentu</h3>
 
 ---
 
 ## 👨‍💻 O mnie
-- 🔹 Nauka tworzenia stron internetowych (HTML, CSS, JS)
+- 🔹 Nauka tworzenia prostych stron internetowych (HTML, CSS, JS)
 - 🔹 Doświadczenie z Pythonem i AutoHotkey (AHK)
-- 🔹 Pasjonuję się kodowaniem, automatyzacją i odkrywaniem nowych technologii
+- 🔹 Pasjonuję się programowaniem, automatyzacją i odkrywaniem nowych technologii
 - 🔹 Ciągłe doskonalenie umiejętności i tworzenie małych projektów
 
 ---
@@ -35,7 +35,7 @@ Najbardziej użyteczny projekt:
 
 ## 📫 Skontaktuj się ze mną
 - ✉️ Email: [nowakkacper5544@gmail.com](mailto:nowakkacper5544@gmail.com) lub [nowakkacper5544@wp.com](mailto:nowakkacper5544@wp.com) 
-- 💬 Discord: `przemyslenie`
+- 💬 Discord: `kacperstaff`
 
 ---
 
