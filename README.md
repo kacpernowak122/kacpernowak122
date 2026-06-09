@@ -35,7 +35,7 @@ Najbardziej użyteczny projekt:
 
 ## 📫 Skontaktuj się ze mną
 - ✉️ Email: [nowakkacper5544@gmail.com](mailto:nowakkacper5544@gmail.com) lub [nowakkacper5544@wp.com](mailto:nowakkacper5544@wp.com) 
-- 💬 Discord: `kacperstaff`
+- 💬 Discord: `@licencjat`
 
 ---
 
